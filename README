@@ -1,1 +1,17 @@
 This is a git repo
+
+
+Interface: Complied with IEEE802.3ab (1000BASE-T)
+Complied with IEEE802.3u (100BASE-TX)
+Complied with IEEE802.3 (10BASE-T)
+Transfer Speed:1000Mbps Full duplex (AutoNegotiation)
+100Mbps Full duplex/Half duplex (auto-negotiation),
+10Mbps Full duplex/Half duplex (auto-negotiation),
+Number of ports:1 port (support AUTO-MDIX)
+Connector type: RJ-45 8-pin
+Access method: CSMA/CD
+Protocol:
+TCP/IP
+Network File Systems: SMB/CIFS, AFP, FTP, HTTP/HTTPS
+Jumbo Frame frame length: 1,518/4,102/7,422/9,694 Bytes(Including 14
+bytes of the header and 4 bytes of FCS)
